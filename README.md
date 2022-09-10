@@ -22,6 +22,7 @@ body {
 
 ___
 
+
 ### font-sizeのremについて
 remは「root em」の略で、CSS3から利用できる。  
 HTMLの最上位要素であるhtmlタグの文字サイズを基準に設定され、親要素の影響を受けない。
@@ -33,7 +34,7 @@ html { font-size: 62.5%; }
 ___
 
 
-###　font-awesomeの使い方
+### font-awesomeの使い方
 ```html
  <link
   rel="stylesheet"
